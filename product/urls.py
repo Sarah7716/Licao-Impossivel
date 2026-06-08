@@ -5,3 +5,4 @@ urlpatterns = [
     path('register/', views.product_register, 
     name='product_register')
 ]
+
